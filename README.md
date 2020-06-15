@@ -11,6 +11,7 @@ It can do basic calculations, either by clicking on the buttons on screen or by 
 - Multiply
 - Subtract
 - Divide
+- Built-in Delete and Clear button (backspace and delete keys for keyboard)
 
 ## Built Using
 - HTML
