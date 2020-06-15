@@ -32,6 +32,9 @@ for(button of calculatorButtons){
             
             
         }
+        if(lastPress === outputScreen.value){
+            outputScreenValue="";
+        }
         
     });
 
